@@ -1,1 +1,6 @@
-console.log('test.js');
+const halodek = [
+  {
+    "name": "halodek",
+    "age": 22,
+  }
+]
